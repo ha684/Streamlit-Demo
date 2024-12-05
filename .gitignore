@@ -1,0 +1,15 @@
+weights
+output
+__pycache__
+test/
+saved_text
+rag_system.log
+test.py
+document_storage
+tmp
+hash_txt
+temp_directory
+venv
+.idea
+.env
+source

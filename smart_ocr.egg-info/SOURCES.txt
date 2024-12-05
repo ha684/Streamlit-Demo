@@ -1,0 +1,8 @@
+LICENSE
+README.md
+setup.py
+smart_ocr.egg-info/PKG-INFO
+smart_ocr.egg-info/SOURCES.txt
+smart_ocr.egg-info/dependency_links.txt
+smart_ocr.egg-info/requires.txt
+smart_ocr.egg-info/top_level.txt
